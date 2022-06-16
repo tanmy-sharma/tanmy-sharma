@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tanmy-sharma
+- 👀 I’m interested in web dev(frontend and backend), coding which just seems fun, and machine learning
+- 🌱 I’m currently learning backend using react and strengthing my javaScript
+- 💞️ I’m looking to collaborate on Web Development and App development projects
+- 📫 How to reach me Linkedin: https://www.linkedin.com/in/tanmy-sharma/
